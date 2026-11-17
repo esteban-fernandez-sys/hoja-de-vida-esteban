@@ -1,0 +1,5 @@
+Coloca aqui tus 3 imagenes con estos nombres exactos:
+
+portada.jpg    -> pagina de Inicio (index.html)
+formacion.jpg  -> pagina de Formacion (formacion.html)
+metas.jpg      -> pagina de Metas (metas.html)
